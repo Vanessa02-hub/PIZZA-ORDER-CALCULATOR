@@ -1,0 +1,1 @@
+A C++ Console Application developed for Pizza Hub that automates the customer ordering process. It captures pizza quantities, extra toppings, and delivery preferences to generate a professional, itemized receipt.
